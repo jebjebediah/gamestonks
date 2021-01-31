@@ -1,13 +1,5 @@
 things left to be done:
 
-Menus:
-* Main menu with play button and quit button, and controls
-* Round summary page w/ play again button and main menu button
-
-Music
-* round music
-* intermission music
-
 SFX:
 * pick up money
 * sell stock
@@ -15,11 +7,6 @@ SFX:
 * punch
 * deposit
 * atm
-
-Summary categories:
-* punches given
-* shares bought
-* final money
 
 Assets:
 * remove unused
