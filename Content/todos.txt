@@ -1,0 +1,33 @@
+things left to be done:
+
+Anims:
+* create 1d blendspace for when holding money
+
+Menus:
+* Main menu with play button and quit button, and controls
+* Round summary page w/ play again button and main menu button
+
+Music
+* round music
+* intermission music
+
+SFX:
+* pick up money
+* sell stock
+* buy stock
+* punch
+* deposit
+* atm
+
+Announcer lines:
+* taken the lead
+* market open
+* market closed
+
+Summary categories:
+* punches given
+* shares bought
+* final money
+
+Assets:
+* remove unused
