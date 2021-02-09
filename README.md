@@ -12,4 +12,4 @@ Download and unzip the file, and run the GameStonks.exe executable.
 - [Josiah Lansford](https://github.com/josassy) - Programming and Design
 - [Jeb Bishop](https://github.com/jebjebediah) - Programming and Design
 - [Luke Bullis](https://github.com/Bedwinnjamin) - Programming and Design
-- Seth Tew - Music
+- [Seth Tew](http://sethtew.myportfolio.com/) - Music
